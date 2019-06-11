@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6
+
+**Focus:** Entity Framework and EF Core, Azure Cosmos, Serialization
+
+**Tasks:** Studied EF and EF Core, read documentation and potential development status of current implementation. Deployed several
+Azure databasese including SQL and Cosmos with MongoDB API and loaded databases with sample data for querying. Reviewed serialization
+concepts such as XML and JSON and their use with HTTP and SOAP.
+
 ### Day 5
 
 **Focus:** Node.js and Javascript
