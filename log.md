@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4
+
+**Focus:** Databases, cloud computing, and software engineering concepts
+
+**Tasks:** Studied relational databases (SQL) versus NoSQL databases, various database schemas and use cases for each. Reviewed cloud
+computing services and terminology. Decided on using MongoDB for document-based database on the Faculty Evaluation Project
+
 ### Day 3:
 
 **Focus:** Asymptotic Analysis (Big O), Review C# Syntax
@@ -7,19 +14,19 @@
 **Tasks:** Studied various time and space complexities for determining Big O runtime of programs. Ran through the gamut of practical
 exercises for Big O. Reviewed primitives, variables, operators in C# 7.0 and coded several console applications to hammer out concepts.
 
-### Day 2:
+### Day 2
 
 **Focus:** ASP.NET Core, SQL, Azure, Razor Pages
 
 **Tasks:** Completed tutorial for ASP.NET WEB API with SQL Server and deployed to Azure. Read documentation for Razor pages
 
-### Day 1: Univeral Windows Platform
+### Day 1
 
 **Focus:** Basics of UWP design and coding; using Visual Studio tools to create User Interface
 
 **Tasks:** Read some documentation on UWP and integration of Connected Services. Completed two walkthroughs for initializing UWP project and brainstormed ideas for portfolio
 
-### Day 0: Preparation
+### Day 0
 
 **Focus:** Take the initial steps to set-up the challenge
 
