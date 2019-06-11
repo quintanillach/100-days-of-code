@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 5
+
+**Focus:** Node.js and Javascript
+
+**Tasks:** Read documentation on Javascript and Node.js for potential use in other projects. Completed LinkedIn Learning course on
+Node.js to famiiarize with basics.
+
 ### Day 4
 
 **Focus:** Databases, cloud computing, and software engineering concepts
