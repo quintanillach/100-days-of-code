@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8
+
+**Focus:** ADO.NET and Serialization in C#
+
+**Tasks:** Read more documentation on serializing and deserializing documents to use in databases for C# program and the rest of the .NET framework. Implemented ADO.NET and JSON functionality in Student database.
+
 ### Day 7
 
 **Focus:** MongoDB, Node.js, React.js, File I/O
