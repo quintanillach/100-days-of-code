@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7
+
+**Focus:** MongoDB, Node.js, React.js, File I/O
+
+**Tasks:** More Node.js documentation and Create a React app tutorial. Built a small website with the MERN stack and deployed to Azure.
+Review File Input and Output in C# with and without Streams. Wrote a few console applications to read large text input and write to new
+files with various sorting algorithms
+
 ### Day 6
 
 **Focus:** Entity Framework and EF Core, Azure Cosmos, Serialization
